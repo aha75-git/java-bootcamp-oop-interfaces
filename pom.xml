@@ -9,7 +9,7 @@
     <version>1.0.0</version>
 
     <name>Java Bootcamp OOP Interfaces</name>
-    <description>Objektorientierte Programmierung OOP Interfaces-Übung.</description>
+    <description>Objektorientierte Programmierung OOP: Interfaces-Übung.</description>
 
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
